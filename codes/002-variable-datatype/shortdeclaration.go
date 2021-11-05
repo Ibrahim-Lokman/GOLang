@@ -2,6 +2,9 @@ package main
 
 import "fmt"
 
+//a := 5
+//it will  not work outside of curly
+
 func main() {
 	fmt.Println("Short Declaration")
 	x := 42
