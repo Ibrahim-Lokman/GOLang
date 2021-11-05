@@ -8,4 +8,6 @@ func main() {
 	fmt.Println(x)
 	x = 14
 	fmt.Println(x)
+	y := "Ibrahim, lokman"
+	fmt.Println(y)
 }
