@@ -2,14 +2,14 @@ package main
 
 import "fmt"
 
-var a = 120
-var z int // data type is of int
+var aa = 120
+var zz int // data type is of int
 
 func main() {
 	var y = 43 * 2
 	fmt.Println(y)
-	fmt.Println(a)
-	fmt.Println(z)
+	fmt.Println(aa)
+	fmt.Println(zz)
 	print()
 }
 func print() {
