@@ -4,9 +4,9 @@ import (
 	"fmt"
 )
 
-type hotdog int
+type hotdog1 int
 
-var by hotdog
+var by hotdog1
 var bx int
 
 func main() {
